@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/taweili-mcp-rss-md-badge.png)](https://mseep.ai/app/taweili-mcp-rss-md)
+
 # RSS to Markdown MCP Server
 
 An MCP (Model Context Protocol) server that provides tools for converting RSS feeds into Markdown format.
